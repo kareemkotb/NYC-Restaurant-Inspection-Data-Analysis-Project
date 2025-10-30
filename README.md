@@ -2,7 +2,7 @@
 
 ## 🏙️ Project Background  
 
-You are a **Data Analyst** at the **New York City Department of Health (DOH)**.  
+At the **New York City Department of Health (DOH)**.  
 The department inspects restaurants citywide to ensure food safety and compliance with public health regulations.  
 Each inspection results in a **numerical score** and a **grade (A–C)**, which affect restaurant reputations and consumer trust.  
 
