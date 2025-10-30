@@ -1,12 +1,5 @@
 # NYC-Restaurant-Inspection-Data-Analysis-Project
 
-# 🍽️ NYC Restaurant Health Inspection Analysis  
-
-Welcome to the sample GitHub ReadME!  
-Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, **quality > quantity** — two stellar business-relevant projects stand out more than many mediocre ones.  
-
----
-
 ## 🏙️ Project Background  
 
 You are a **Data Analyst** at the **New York City Department of Health (DOH)**.  
